@@ -1,0 +1,6 @@
+ pip install django==4.2.8
+ pip install django-ckeditor==6.7.1
+ pip install django-crispy-forms==1.4
+ pip install djangocms-bootstrap4
+ pip install pillow==10.2
+ pip install crispy-bootstrap4==2024.1
