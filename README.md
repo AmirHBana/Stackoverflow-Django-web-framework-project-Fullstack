@@ -9,11 +9,10 @@
 
 <br>
 
-<hr>
 
-<h3><strong> $> git clone https://github.com/AmirHBana/Stackoverflow-Django-web-framework-project-Fullstack.git </strong></h3>
 
-<hr>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> $> git clone https://github.com/AmirHBana/Stackoverflow-Django-web-framework-project-Fullstack.git </pre></div>
+
 
 <br><br>
 
@@ -26,23 +25,16 @@
   after you activate your venv install python packages below in to your venv
 </p>
 
-<hr>
-
 <br>
 
-<h3> <strong> <hr>
-        $>  pip install django==4.2.8 <br> <hr>
-        $>  pip install django-ckeditor==6.7.1 <br> <hr>
-        $> pip install  redis-5.0.3 <br> <hr>
-        $>  pip install django-crispy-forms==1.4 <br> <hr>
-        $>  pip install djangocms-bootstrap4 <br> <hr>
-        $>  pip install pillow==10.2 <br> <hr>
-        $>  pip install crispy-bootstrap4==2024.1 <br> <hr>
-</strong> </h3>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django==4.2.8</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-ckeditor==6.7.1</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install  redis-5.0.3</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-crispy-forms==1.4</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install djangocms-bootstrap4</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install pillow==10.2</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install crispy-bootstrap4==2024.1</pre></div>
 
-<br>
-
-<hr>
 
 <br>
 
@@ -54,7 +46,12 @@
 
 <hr>
 
-<h3> <strong>  $> python manage.py runserver </strong> </h3>
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py makemigrations</pre></div>
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py migrate</pre></div>
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py runserver</pre></div>
 
 <hr>
 
